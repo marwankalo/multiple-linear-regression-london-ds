@@ -1,6 +1,6 @@
 # multiple-linear-regression-london-ds
 
-* [Multiple Linear Regression](https://docs.google.com/presentation/d/1lyrPb2evxBlnKVes7jDosN9sfQJZ6inQSQ9Y8kjnJG8/edit?usp=sharing)
+* [Multiple Linear Regression](https://docs.google.com/presentation/d/1doUzui1xD73-Ejz4d9jIcljckeAZqlWX9ay93Z59y0k/edit?usp=sharing)
 
 * [Exit Ticket | Multiple Regression](https://forms.gle/byBEQbJQvPSpnT7B9 )
 
